@@ -55,3 +55,4 @@ cmake-build-debug-esp-idf/
 build/
 .idea/
 .vscode/
+components/
